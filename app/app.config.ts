@@ -1,7 +1,7 @@
 export default defineAppConfig({
-  cover: '/cover.jpg',
+  cover: '/about11-12-09.jpg',
   socials: {
-    telegram: 'https://t.me/agagafilm',
+    link: 'https://t.me/agagafilm',
     github: 'ink-kin/content-wind-gagarinov',
   },
   icon: {
